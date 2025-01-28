@@ -1,5 +1,5 @@
 # !/bin/bash
-a=10
+a=17
 b=22
 
 echo "ENter choice: "
