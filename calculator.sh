@@ -8,7 +8,7 @@ echo "2. Subtraction"
 echo "3. Multiplication"
 echo "4. Division"
 
-ch=2
+ch=3
 
 case $ch in
         1)res=`expr $a + $b`
