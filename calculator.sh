@@ -1,6 +1,6 @@
 # !/bin/bash
 a=10
-b=20
+b=22
 
 echo "ENter choice: "
 echo "1. Addition"
